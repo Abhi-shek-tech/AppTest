@@ -1,6 +1,6 @@
 # AppTest
 
-*# Testing Together For Her App Login Feature
+# Testing Together For Her App Login Feature
 
 This automation framework enables to automate the login feature of the Together For Her (TFH) app using Appium and a Google Pixel 6 emulator running Android 13. The framework is built using Maven for project management, TestNG for test management, and Surefire for generating HTML reports.
 
