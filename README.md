@@ -19,6 +19,8 @@ To clone and execute the tests, please follow these steps:
 
 5.Google Pixel 6 emulator created in Android Studio(Andriod 13)
 
+6.Together For Her App should be installed on the emulator
+
 ### Clone the Repository
 
 1.Open a terminal or command prompt.
